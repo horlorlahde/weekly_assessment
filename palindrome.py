@@ -17,5 +17,3 @@ def isPalindrome(x: int) -> bool:
         div = div / 100  # Adjust the divisor
 
     return True
-
-pal(345678)
